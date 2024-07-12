@@ -1,0 +1,3 @@
+variable "vedanta_nic" {
+
+}

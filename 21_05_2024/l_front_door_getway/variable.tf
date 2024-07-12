@@ -1,0 +1,3 @@
+variable "front_door" {
+  
+}

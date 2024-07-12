@@ -1,0 +1,3 @@
+variable "virtule_machine" {
+
+}

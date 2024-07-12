@@ -1,0 +1,3 @@
+variable "veda_host" {
+
+}
